@@ -21,5 +21,6 @@
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
-<img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50">
-<img align="bottom" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/06111419/1200px-Django_logo.svg.png" width="50">
+<br>
+<img align="middle" vspace="5" hspace="6" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50">
+<img align="middle" vspace="5" hspace="6" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/06111419/1200px-Django_logo.svg.png" width="50">
