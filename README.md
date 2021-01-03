@@ -10,7 +10,6 @@
 - WebScrapping
 - API RESTFul
 
-<br>
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
@@ -19,8 +18,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="50">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
 
-</br>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="50">
-<img align="left" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" height="50">
+<img align="left" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/06111419/1200px-Django_logo.svg.png" height="50">
