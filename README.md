@@ -1,4 +1,4 @@
-# Olá, meu nome é Jônatas G. Barbosa
+# Olá, meu nome é Jônatas G. Barbosa S.
 
 ## No oitavo período de Ciência da computação, na Universidade de Brasília.
 ### À procura da minha paixão na área e procurando novas experiências
