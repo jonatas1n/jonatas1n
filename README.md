@@ -1,6 +1,6 @@
 # Hi, mu mané is Jônatas G. Barbosa S.
 
-## I'm a Science Computing studebt, at Universidade de Brasília.
+## I'm a Science Computing student, at Universidade de Brasília.
 ### Looking for my passion within my area and for new experiences.
 ---
 ## Experience:
