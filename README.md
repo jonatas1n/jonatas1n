@@ -1,12 +1,12 @@
-# Olá, meu nome é Jônatas G. Barbosa S.
+# Hi, mu mané is Jônatas G. Barbosa S.
 
-## No oitavo período de Ciência da computação, na Universidade de Brasília.
-### À procura da minha paixão na área e procurando novas experiências
+## I'm a Science Computing studebt, at Universidade de Brasília.
+### Looking for my passion within my area and for new experiences.
 ---
-## Conhecimentos:
-- Desenvolvimento Web
-- Desenvolvimento Mobile
-- Mineração de Texto
+## Experience:
+- Web Development
+- Mobile
+- Text Mining
 - WebScrapping
 - API RESTFul
 
