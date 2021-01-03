@@ -18,10 +18,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50" hspace="10">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="50" hspace="10">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50" hspace="10">
-</div>
-<div width="100%">
+
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="50">
-<img align="left" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/06111419/1200px-Django_logo.svg.png" height="50">
-</div>
+![Django](https://dkrn4sk0rn31v.cloudfront.net/2019/02/06111419/1200px-Django_logo.svg.png "Branching Map")
