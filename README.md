@@ -20,7 +20,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50">
 <br>
 <br>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="50">
-<img align="left" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" height="50">
+<img align="left" bg-color="black" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" height="50">
