@@ -10,7 +10,7 @@
 - WebScrapping
 - API RESTFul
 
-<div>
+<div width="100%">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" hspace="10" height="50">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" hspace="10">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50" hspace="10">
@@ -19,7 +19,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="50" hspace="10">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50" hspace="10">
 </div>
-<div>
+<div width="100%">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="50">
