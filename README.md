@@ -9,7 +9,8 @@
 - Text Mining
 - WebScrapping
 - API RESTFul
-
+<br/>
+<br/>
 <div width="100%">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" hspace="6" height="50" vspace="6">
 <img align="left" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50" hspace="6" vspace="6">
