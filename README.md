@@ -1,4 +1,4 @@
-# 😄 Hi, my name is Jônatas G. Barbosa S.
+# 😄 Hi, my name is Jônatas Gomes
 
 ## 💻 I'm a Science Computing student, at Universidade de Brasília.
 ### 🔍 Looking for my passion within my area and for new experiences.
