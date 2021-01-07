@@ -1,9 +1,9 @@
-# Hi, my name is Jônatas G. Barbosa S.
+# 😄 Hi, my name is Jônatas G. Barbosa S.
 
-## I'm a Science Computing student, at Universidade de Brasília.
-### Looking for my passion within my area and for new experiences.
+## 💻 I'm a Science Computing student, at Universidade de Brasília.
+### 🔍 Looking for my passion within my area and for new experiences.
 ---
-## Experience:
+## 📚 Experience:
 - Web Development
 - Mobile
 - Text Mining
