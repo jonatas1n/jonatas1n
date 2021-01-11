@@ -1,7 +1,7 @@
 # 😄 Hi, my name is Jônatas Gomes
 
 ## 💻 I'm a Science Computing student, at Universidade de Brasília.
-### 🦾 I developed the interface and was part of the development team for a Personnel management system for the Brazilian Navy. I am currently a Full Stack developer at ProEpi and have several experiences with APIRest and WebScrapping.
+### 🦾 I developed the interface and was part of the development team for a Personnel management system for the entire Brazilian Navy. I am currently a Full Stack developer at ProEpi and have several experiences with APIRest and WebScrapping.
 ---
 ## 📚 Experience:
 - Web Development
