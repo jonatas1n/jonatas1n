@@ -23,13 +23,13 @@
   <img src="://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
----
+<!-- ---
 
 ## 📚 Experience:
 - Web Development
 - Mobile
 - Text Mining
 - WebScrapping
-- API RESTFul
+- API RESTFul -->
 
 
