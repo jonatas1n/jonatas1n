@@ -27,12 +27,14 @@
 </div>
 
 ## 📚 Experience:
-- Web Development
-- Mobile Development
-- WebCrawling
-- WebScrapping
-- Text Mining
-- API RESTFul
-- Test Automation
+<div style="display: inline_block; text-align: center; font-size: 2rem;">
+  <span style="font-size=2rem;">Web Development</span> |
+<span style="font-size=2rem;">Mobile Development</span> |
+<span style="font-size=2rem;">API RESTFul</span> |
+<span style="font-size=2rem;">WebCrawling</span> |
+<span style="font-size=2rem;">WebScrapping</span> |
+<span style="font-size=2rem;">Text Mining</span> |
+<span style="font-size=2rem;">Test Automation</span>
+</div>
 
 
