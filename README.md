@@ -16,9 +16,7 @@
   <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" >
-  <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
   <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" >
-  <img align="center; margin-top: 12px;" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
 ## 📚 Experience:
